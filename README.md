@@ -1,4 +1,4 @@
-# My Awesome Project
+# bgChanger
 
 ![Project Screenshot](./path/to/screenshot.png)
 
